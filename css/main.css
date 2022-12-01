@@ -45,6 +45,10 @@ body {
   font-weight: 400;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+  background-image: url("https://media.sweetwater.com/m/header/logo/sweetwater-logo.png?width=570&quality=90");
+  background-repeat: no-repeat;
+  background-position: center;
+  
 }
 
 /**
