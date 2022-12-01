@@ -8,7 +8,7 @@ Module.register("compliments", {
 	// Module config defaults.
 	defaults: {
 		compliments: {
-			anytime: ["Hey there sexy!"],
+			anytime: ["It's gonna be a great day!"],
 			morning: ["Good morning, handsome!", "Enjoy your day!", "How was your sleep?"],
 			afternoon: ["Hello!", "Stay Positive!", "Today is a great day!"],
 			evening: ["Just about there!", "Almost done!", "Way to go!"],
