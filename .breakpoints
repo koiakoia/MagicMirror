@@ -1,0 +1,18 @@
+{
+  "files": {
+    "modules/default/compliments/compliments2.js": [
+      {
+        "id": "6641c05d-625e-4f9c-a002-84d89cec29b0",
+        "line": 1,
+        "version": 40,
+        "index": 0
+      },
+      {
+        "id": "0e036d3b-3852-47de-854c-50a5fc626d19",
+        "line": 8,
+        "version": 40,
+        "index": 207
+      }
+    ]
+  }
+}
