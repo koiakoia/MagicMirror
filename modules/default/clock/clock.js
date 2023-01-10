@@ -12,7 +12,7 @@ Module.register("clock", {
 		displayType: "digital", // options: digital, analog, both
 
 		timeFormat: config.timeFormat,
-		timezone: America/New_York,
+		timezone: "America/New_York",
 
 		displaySeconds: true,
 		showPeriod: true,
