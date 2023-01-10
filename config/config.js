@@ -29,7 +29,7 @@ let config = {
 	language: "en",
 	locale: "en-US",
 	logLevel: ["INFO", "LOG", "WARN", "ERROR"], // Add "DEBUG" for even more logging
-	timeFormat: 212,
+	timeFormat: 12,
 	units: "imperial",
 	// serverOnly:  true/false/"local" ,
 	// local for armv6l processors, default
